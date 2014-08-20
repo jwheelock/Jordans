@@ -1,0 +1,32 @@
+body {
+	background: lightcyan;
+	width: 800px;
+	margin: auto;
+}
+
+h1 {
+	color: maroon;
+	text-align: center;
+}
+
+p {
+	color: gray;
+	border: 1px solid gray;
+	padding: 10px;
+}
+
+h5 {
+	color: orange;
+	padding: 10px;
+	font: helvetica;
+	font-size: 18px;
+	border: 1px solid orange;
+}
+
+div.sitemap{
+	color: orange;
+	padding: 10;
+	font-family: helvetica;
+	font-size: 18;
+	border: 1px solid orange;
+}
